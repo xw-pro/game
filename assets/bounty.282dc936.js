@@ -1,1 +1,0 @@
-import{d as a,Z as s,k as e,l as t,Y as d}from"./index.052dc0ad.js";const o={class:"pageVal"},p=a({name:"403"}),r=d(a({...p,setup:c=>(s(),(l,m)=>(e(),t("div",o," Bounty ")))}),[["__scopeId","data-v-e19cd33b"]]);export{r as default};

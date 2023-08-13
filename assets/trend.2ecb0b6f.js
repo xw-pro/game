@@ -1,0 +1,1 @@
+import{d as a,Z as s,k as e,l as d,Y as t}from"./index.3d57055d.js";const o={class:"pageVal"},p=a({name:"403"}),m=t(a({...p,setup:l=>(s(),(r,c)=>(e(),d("div",o," Trend ")))}),[["__scopeId","data-v-bf935e88"]]);export{m as default};

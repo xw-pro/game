@@ -1,1 +1,0 @@
-import{d as a,Z as s,k as e,l as o,Y as t}from"./index.052dc0ad.js";const c={class:"pageVal"},d=a({name:"403"}),i=t(a({...d,setup:p=>(s(),(l,r)=>(e(),o("div",c," Discover ")))}),[["__scopeId","data-v-c39bf6e7"]]);export{i as default};
